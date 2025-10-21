@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17402174.svg)](https://doi.org/10.5281/zenodo.17402174)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17402298.svg)](https://doi.org/10.5281/zenodo.17402298)
 
 # Increased Postprandial Metabolic Flexibility is Associated with Higher Body Fat Percentages in Healthy Young Adults
 This repository contains analysis datafiles and a Colab notebook for our short report in AJP-Endo on body fat percentage and metabolic flexibility.
