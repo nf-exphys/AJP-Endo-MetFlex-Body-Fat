@@ -22,4 +22,7 @@ The analysis.zip file contains three files:
 2) _postprandial_analysis.csv_ has covariates and outcome variables for the mixed effects model analyses. All data in this file is centered to mean 0 with a SD of 1.0. Note this data is in long format, so any constant covariates (i.e., sex, body fat, etc.) appear four times per participant, one for each postprandial timepoint.  
 3) _other_data.csv_ has the raw data for Table 1 not otherwise included in other files. All data in this file is in its typical units (i.e., not centered and scaled).
 
+## Contact ##
+If you run into issues or have questions, please contact the corresponding author of the paper.
+
 
